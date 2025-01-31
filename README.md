@@ -1,9 +1,4 @@
-mkdir ccminer && cd ccminer
-wget https://raw.githubusercontent.com/wwahyudm/vrs/refs/heads/main/ccminer
-wget https://raw.githubusercontent.com/wwahyudm/vrs/refs/heads/main/config.json
-wget https://raw.githubusercontent.com/wwahyudm/vrs/refs/heads/main/start.sh
-chmod +x ccminer start.sh
-
+```
 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk
 ```
 
